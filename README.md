@@ -82,6 +82,6 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Contact
 
-If you have any questions or feedback, feel free to reach out to us at taskify@example.com.
+If you have any questions or feedback, feel free to reach out to us at sinaahmadi@gmail.com.
 
 Happy task management with Taskify!
