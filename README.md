@@ -18,7 +18,7 @@ Taskify is a web application built with Django that allows users to manage and o
 1. Clone the repository:
 
 ```shell
-git clone https://github.com/your-username/Taskify.git
+git clone https://github.com/SinaAhmadiii/Taskify.git
 ```
 
 2. Change to the project's directory:
@@ -30,7 +30,7 @@ cd Taskify
 3. Create a virtual environment:
 
 ```shell
-python -m venv myenv
+python -m venv venv
 ```
 
 4. Activate the virtual environment:
@@ -38,13 +38,13 @@ python -m venv myenv
 On macOS and Linux:
 
 ```shell
-source myenv/bin/activate
+source venv/bin/activate
 ```
 
 On Windows:
 
 ```shell
-myenv\Scripts\activate
+venv\Scripts\activate
 ```
 
 5. Install the project dependencies:
@@ -82,6 +82,6 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Contact
 
-If you have any questions or feedback, feel free to reach out to us at sinaahmadi@gmail.com.
+If you have any questions or feedback, feel free to reach out to us at sinaahmadi615@gmail.com.
 
 Happy task management with Taskify!
